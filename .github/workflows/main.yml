@@ -1,6 +1,6 @@
 name: Debugging with SSH
 on:
-  create:
+  push:
     branches:
       - test_ngork
 jobs:
